@@ -23,7 +23,7 @@ A robust, console-based **Library Management System** developed in Java to demon
 
 ## Project Structure
 ```text
-LibraryManagementSystem/
+library_management_system/
 │
 ├── LibraryManagementSystem.java   # Contains all system classes, controller, and main entry point
 └── README.md                      # Project documentation and setup guide
